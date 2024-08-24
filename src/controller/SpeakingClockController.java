@@ -10,7 +10,9 @@ public class SpeakingClockController {
     private TimeConversionService timeConversionService;
 
     public SpeakingClockController() {
+
         this.timeConversionService = new TimeConversionService();
+
     }
 
     public TimeResponse getCurrentTime() {

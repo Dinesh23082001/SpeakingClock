@@ -33,6 +33,7 @@ public class TimeConversionService {
 
     private String convertSingleDigitToWord(int digit) {
         String[] words = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+
         return words[digit];
     }
 

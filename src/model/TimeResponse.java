@@ -4,6 +4,7 @@ public class TimeResponse {
     private String timeInWords;
 
     public TimeResponse(String timeInWords) {
+
         this.timeInWords = timeInWords;
     }
 
