@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Dineshkalimisetty
+ *
+ */
+module SpeakingClock {
+}
